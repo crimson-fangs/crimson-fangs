@@ -9,7 +9,7 @@
   <br>
   <ul>
     <li><a href="https://drive.google.com/file/d/1lH8qSAWGpRmeZZGeUWLCIBLfVrs8eNyd/view?usp=sharing">Aluno Destaque em JAVA - IFSP</a></li>
-    <li><a href="LINK_AQUI">Palestra de Empreendedorismo - SEBRAE</a></li>
+    <li><a href="https://drive.google.com/file/d/156PCMTpSBI2SIPYWglVdYg-HBiFVT8WC/view?usp=sharing">Palestra de Empreendedorismo - SEBRAE</a></li>
   </ul>
 </details>
 
