@@ -4,7 +4,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-CERTIFICADOS:
+<p>
+CERTIFICADOS: 
+<br>
 Certificado de Aluno Destaque em Introdução Orientada a Objetos (https://drive.google.com/file/d/1lH8qSAWGpRmeZZGeUWLCIBLfVrs8eNyd/view?usp=sharing)
+</p>
+
+
 
                                                                  
