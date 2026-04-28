@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Eloy&fontSize=70&animation=fadeIn" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/kauany-eloy-545923359/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
