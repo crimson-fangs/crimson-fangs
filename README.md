@@ -2,22 +2,7 @@
   <a href="https://www.linkedin.com/in/kauany-eloy-545923359/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:this.eloydev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-###  Sobre Mim
-👋 Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas no IFSP** (2º ano).
--  Atualmente focado em **Backend (Java & Node.js)** e lógica de programação.
--  Aluno Destaque em **Programação Orientada a Objetos (POO)**.
--  Usuário de **Linux (KDE Plasma)** e entusiasta de hardware e retrogaming.
--  Objetivo: Consolidar conhecimentos em arquitetura de sistemas e buscar minha primeira oportunidade de estágio.
-
----
-
+  
 ###  Tecnologias e Ferramentas
 
 <p align="center">
