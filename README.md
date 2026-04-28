@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Kauany%20Eloy&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Eloy&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -16,8 +16,8 @@
 ###  Sobre Mim
 👋 Olá! Sou estudante de **Análise e Desenvolvimento de Sistemas no IFSP** (2º ano).
 -  Atualmente focado em **Backend (Java & Node.js)** e lógica de programação.
--  Aluna Destaque em **Programação Orientada a Objetos (POO)**.
--  Usuária de **Linux (KDE Plasma)** e entusiasta de hardware e retrogaming.
+-  Aluno Destaque em **Programação Orientada a Objetos (POO)**.
+-  Usuário de **Linux (KDE Plasma)** e entusiasta de hardware e retrogaming.
 -  Objetivo: Consolidar conhecimentos em arquitetura de sistemas e buscar minha primeira oportunidade de estágio.
 
 ---
