@@ -1,9 +1,5 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/kauany-eloy-545923359/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-###  Tecnologias e Ferramentas
+
+  ###  Tecnologias e Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -19,6 +15,13 @@
 </p>
 
 ---
+
+###  Social
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kauany-eloy-545923359/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 ###  Estatísticas
 
