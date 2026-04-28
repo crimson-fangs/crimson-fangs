@@ -23,11 +23,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+  <a href="mailto:this.eloydev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
+---
+
 ###  Estatísticas
 
 <p align="center">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-eloy&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=html,css&cache_seconds=1800" />
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=this-eloy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 ---
