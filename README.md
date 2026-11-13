@@ -5,3 +5,9 @@
  <p align="center">
   <img src="https://i.pinimg.com/736x/06/9e/86/069e86ed5ef66db2f70bf561721cbf8e.jpg" alt="Alt Tag" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zcdxbbr43x34titwir3k4ieuiq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=333333&bar_color_cover=false">
+  </a>
+</p>
