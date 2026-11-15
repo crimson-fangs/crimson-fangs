@@ -3,7 +3,7 @@
 </p>
 
  <p align="center">
-  <img src="https://pin.it/34argnuxj" alt="Alt Tag" />
+  <img src="https://pin.it/3gVTZBoEa" alt="Alt Tag" />
 </p>
 
 
