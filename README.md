@@ -3,7 +3,6 @@
 </p>
 
  <p align="center">
-  <img src="[https://pin.it/7zJoNtiY5](https://i.pinimg.com/736x/4b/ad/e9/4bade9ab54b4ceb5be6f6987fa621150.jpg
-)" alt="Alt Tag" />
+  <img src="[https://pin.it/7zJoNtiY5](https://i.pinimg.com/736x/4b/ad/e9/4bade9ab54b4ceb5be6f6987fa621150.jpg)" alt="Alt Tag" />
 </p>
 
